@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+* {
+  box-sizing: border-box;
+  font-weight: bold;
+}
+.App {
+  text-align: center;
+}
+
+/* Primary
+- Cyan: #2acfcf
+- Dark Violet: #3b3054
+Secondary
+- Red: #f46262
+Neutral
+- Gray: 	#bfbfbf
+- Grayish Violet: #9e9aa7
+- Very Dark Blue: #35323e
+- Very Dark Violet: #232127 
+*/
